@@ -18,7 +18,10 @@ performance. Model development involved the glm() function for Logistic Regressi
 additional libraries for SVM,KNN and Random Forest in R Studio. The models were 
 evaluated using test data, and results showed accurate churn prediction with minimal error 
 rates, highlighting the effectiveness of these approaches in addressing customer churn
+## Below this the dashboard analysis of my telecom churn analysis
 ![Screenshot 2025-03-08 184333](https://github.com/user-attachments/assets/81c79978-09b8-4a97-8064-eef67215fec7)
 ![Screenshot 2025-03-08 184458](https://github.com/user-attachments/assets/53f53643-d319-4c83-b684-2f4caa8d5aae)
+
+
 
 
